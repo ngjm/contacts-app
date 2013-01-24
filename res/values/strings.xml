@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ng.jessica.hw5</string>
+    <string name="displayNameLabel">Display Name:</string>
+    <string name="displayNameHint">Enter display name</string>
+    <string name="firstNameLabel">First Name:</string>
+    <string name="firstNameHint">Enter first name</string>
+    <string name="lastNameLabel">Last Name:</string>
+    <string name="lastNameHint">Enter last name</string>
+    
+    <string name="fullNameLabel">Full Name:</string>
+    
+    <string name="displayAct">Display</string>
+    <string name="editAct">Edit</string>
+    <string name="saveButton">Save</string>
+    <string name="cancel">Cancel</string>
+    
+    <string name="comma">,</string>
+    
+    <string name="birthdayLabel">Birthday:</string>
+    
+    <string name="setPreferredTime">Select Preferred Contact Time</string>
+    
+    <string name="timeLabel">Preferred Contact Time:</string>
+    <string name="timeSep">to</string>
+
+    <string name="startTimeLabel">Set Start Time</string>
+    <string name="endTimeLabel">Set End Time</string>
+    
+    <string name="homeNoLabel">Home Phone:</string>
+    <string name="workNoLabel">Work Phone:</string>
+    <string name="mobileNoLabel">Mobile Phone: </string>
+    <string name="emailLabel">E-mail:</string>
+    <string name="addressLabel">Postal Address:</string>
+    
+    <string name="editButtonLabel">Edit</string>
+    <string name="revertButtonLabel">Revert</string>
+    <string name="createButtonLabel">Create</string>
+    <string name="EMPTY_DISPLAY_NAME_ERROR">Cannot save a Contact with an empty Display Name</string>
+    <string name="contact_updated">Contact updated</string>
+    <string name="contact_created">Contact created</string>
+    <string name="contact_text_label">"Contact "</string>
+    <string name="conact_text_added">" was added to your contact list"</string>
+    <string name="contact_text_updated">" was updated"</string>
+
+</resources>
