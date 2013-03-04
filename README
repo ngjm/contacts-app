@@ -1,0 +1,12 @@
+An Android contact application that uses the Android Contacts provider to store contact data.
+
+
+Capabilities -
+
+	- Create a new contact
+	- View a contact
+	- Edit a contact
+	- Displays all contacts added in the application
+	- (All contacts created within the appliation are stored and then read from the Android Contacts provider)
+	- Uses notifications to display status of created/updated contacts
+
